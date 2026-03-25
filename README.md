@@ -1,6 +1,1 @@
-<html>  <div style="text-align: center;">. . . . .</div>
-## I'm Enes,  
-
-
-
-</html>
+## I'm "VI" and cyber security beginner study
